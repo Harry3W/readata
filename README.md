@@ -15,7 +15,7 @@
 
 为了方便阅读和学习，把公众号文章的代码和数据都整理放到这里，内容主要是一些数据分析的实战项目，内容持续更新呀，感兴趣的小伙伴也可以扫码关注一下
 
-<div style="align: center">
+<div align = center>
 <img src="https://github.com/Harry3W/readata/blob/master/picture.png"/>
 </div>
 
