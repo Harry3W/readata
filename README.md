@@ -15,12 +15,13 @@
 
 为了方便阅读和学习，把公众号文章的代码和数据都整理放到这里，内容主要是一些数据分析的实战项目，内容持续更新呀，感兴趣的小伙伴也可以扫码关注一下
 
-![picture.png](https://upload-images.jianshu.io/upload_images/8316927-02bc45439867a7ad.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![picture.png](https://github.com/Harry3W/readata/blob/master/picture.png)
 
 作者：易执<br>
 微信公众号：「[Python读数](http://mp.weixin.qq.com/s?__biz=MzU2NjQ2ODMxNg==&mid=2247483943&idx=1&sn=06186d031fc901a1a1883d0833488d1f&chksm=fcad4994cbdac08234b9f74a23faed70be80129a7c2f32c043b8ebf87c346824296176922135&scene=18#wechat_redirect)」
 
-
+<br>
+<br>
 
 # 项目列表
 
