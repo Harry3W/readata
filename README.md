@@ -18,7 +18,7 @@
 <div align = center>
 <img src="https://github.com/Harry3W/readata/blob/master/picture.png"/>
 </div>
-
+<br>
 
 作者：易执<br>
 微信公众号：「[Python读数](http://mp.weixin.qq.com/s?__biz=MzU2NjQ2ODMxNg==&mid=2247483943&idx=1&sn=06186d031fc901a1a1883d0833488d1f&chksm=fcad4994cbdac08234b9f74a23faed70be80129a7c2f32c043b8ebf87c346824296176922135&scene=18#wechat_redirect)」
