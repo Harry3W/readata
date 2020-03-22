@@ -7,7 +7,7 @@
         <img src="https://img.shields.io/badge/Python-3.6-blue.svg">
         </a>
     <a href="">
-        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E8%AF%BB%E6%95%B0-ff69b4">
+        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-Python%E8%AF%BB%E8%B4%A2-ff69b4">
         </a>
 </p>
 
@@ -28,30 +28,20 @@
 
 # 项目列表
 
-1. **拉勾网数据分析师职位信息分析**
-
-- 内容：用Python爬取了拉钩网上主要城市的数据分析师职位信息，对不同学历、经验、城市以及技能要求的薪水进行了详细的分析
-- 原文链接：《 [互联网寒冬下，数据分析师还吃香吗？](https://mp.weixin.qq.com/s/ta1YEWOn4zwZl8I3KaBAdg) 》
-
-- 你能学到：爬虫技巧、Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化
-- 难度：★★★★☆
-
-<br>
-
-2. **乔丹职业生涯数据分析**
-
-- 内容：对乔丹职业生涯的数据分常规赛和季后赛进行了全面的分析，用数据还原了乔丹的NBA之路，篮球爱好者切勿错过哦！
-- 原文链接：《 [大话NBA | 用数据带你回顾乔丹的职业生涯](https://mp.weixin.qq.com/s/SSFUCBJZrFQ_3IF3tSP21g)》
-
-- 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化
-- 难度：★★★☆☆
-
-<br>
-
-3. **可转债打新收益率分析**
+1. **可转债打新收益率分析**
 
 - 内容：对可转债打新的收益率进行了分析，并从多个维度分析了可转债打新收益率的影响因素，适合于入门金融数据分析。
 - 原文链接：《[可转债打新能赚钱吗？Python数据分析告诉你！](https://mp.weixin.qq.com/s/9h65D5hJxw25dbdQti1vxA)》
 
 - 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化、可转债理财小知识
 - 难度：★★★☆☆
+
+1. **可转债抢权配售研究**
+
+- 内容：取近半年上市共71只可转债为研究样本，对可转债抢权配售行为的可行性进行了详细的分析
+- 原文链接：《[Python量化研究——可转债抢权配售值得做吗？](https://mp.weixin.qq.com/s/9h65D5hJxw25dbdQti1vxA)》
+
+- 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化、可转债理财小知识
+- 难度：★★★☆☆
+
+
