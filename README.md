@@ -16,7 +16,7 @@
 为了方便阅读和学习，把公众号文章的代码和数据都整理放到这里，内容主要是一些数据分析以及金融量化研究的相关干货！，内容持续更新呀，感兴趣的小伙伴也可以扫码关注一下
 
 <div align = center>
-<img src="https://github.com/Harry3W/readata/blob/master/picture1.png"/>
+<img src="https://github.com/Harry3W/readata/blob/master/%E5%BA%95%E9%83%A8%E4%BA%8C%E7%BB%B4%E7%A0%811.png"/>
 </div>
 <br>
 
@@ -43,5 +43,27 @@
 
 - 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化、可转债理财小知识
 - 难度：★★★☆☆
+
+3. **互联网数据分析师岗位分析**
+
+- 内容：爬虫爬取拉钩数据分析的相关职位，分析了职位的薪水，以及相应的影响因素
+- 原文链接：《[互联网寒冬下，数据分析师还吃香吗？](https://mp.weixin.qq.com/s/ta1YEWOn4zwZl8I3KaBAdg)》
+
+- 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化
+- 难度：★★★★☆
+
+4. **NBA数据分析**
+
+- 内容：爬虫爬取了乔丹的职业生涯数据进行分析
+- 原文链接：《[大话NBA | 用数据带你回顾乔丹的职业生涯](https://mp.weixin.qq.com/s/SSFUCBJZrFQ_3IF3tSP21g)》
+- 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化
+- 难度：★★★★☆
+
+5. **基金定投策略分析**
+
+- 内容：用数据分析了如何正确选择基金定投的估值区间，并搭建了一个简单的回测框架
+- 原文链接：《[基金定投如何选择买卖点？——关于定投的择时研究](https://mp.weixin.qq.com/s/oJX5jFtcVaoYeoFeP2hCgw)》
+- 你能学到：Pandas数据处理、数据分析思路、Seaborn和matplotlib可视化、基金理财小知识
+- 难度：★★★★☆
 
 
