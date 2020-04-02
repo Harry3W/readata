@@ -1,4 +1,4 @@
-# <p align="center">Python量化研究汇总</p>
+# <p align="center">Python数据分析汇总</p>
 <p align="center">
     <a href="">
         <img src="https://img.shields.io/badge/状态-持续更新中-brightgreen.svg">
